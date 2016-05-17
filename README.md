@@ -34,9 +34,9 @@
 #####step04: git push -u origin master
 -------------------------------------------------------------------
 #### 下載其他人的GitHub
-##### 先由終端機找到欲存放他人GitHub的資料夾
-##### git init (初始化),如果檔案以初始化則可省略此步驟
-##### git clone http://...(欲下載的目標GitHub檔案)
+#####step01: 先由終端機找到欲存放他人GitHub的資料夾
+#####step02: git init (初始化),如果檔案以初始化則可省略此步驟
+#####step03: git clone http://...(欲下載的目標GitHub檔案)
 ##### 最後會出現類似下面兩行文字,表示下載成功囉
 ##### Unpacking objects: 100% (44/44), done.
 ##### Checking connectivity... done.
